@@ -21,7 +21,7 @@ body {
 .slider {
     position: absolute;
     inset: 80px 200px 80px 80px;
-    background: #ccc;
+    background: rgb(36, 36, 36);
     border-radius: 20px;
 }
 
