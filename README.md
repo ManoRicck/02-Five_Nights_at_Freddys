@@ -1,8 +1,7 @@
 https://github.com/user-attachments/assets/d10346a0-8e73-46f7-8f5e-d05b20c1c14e
 
-
 <h1 align="center">
-  <img src="https://media.tenor.com/FR5cu8mg5dUAAAAj/fnaf-fnaf-movie.gif" alt="FNaF Animation" height="200">
+  <img src="https://github.com/user-attachments/assets/2d3adbd5-c976-4481-9fd5-d5a410f25bc3" alt="FNaF Animation" height="200">
 </div>
 
 <h1 align="center">
