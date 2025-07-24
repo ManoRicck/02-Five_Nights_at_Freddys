@@ -1,9 +1,10 @@
 https://github.com/user-attachments/assets/d10346a0-8e73-46f7-8f5e-d05b20c1c14e
 
 
-<div align="center">
-  <img src="https://media.tenor.com/FR5cu8mg5dUAAAAj/fnaf-fnaf-movie.gif" alt="FNaF Animation" height="300">
+<div style="width: 500px; height: 300px; overflow: hidden;">
+  <img src="https://exemplo.com/sua-imagem-grande.jpg" width="1000" alt="Imagem cortada" style="margin-left: -200px; margin-top: -100px;">
 </div>
+
 <h1 align="center">
   Five Nights at Freddy's - Apresentação Interativa
 </h1>
