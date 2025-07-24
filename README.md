@@ -1,13 +1,14 @@
 https://github.com/user-attachments/assets/d10346a0-8e73-46f7-8f5e-d05b20c1c14e
 
 
-<div style="width: 500px; height: 300px; overflow: hidden;">
-  <img src="https://exemplo.com/sua-imagem-grande.jpg" width="1000" alt="Imagem cortada" style="margin-left: -200px; margin-top: -100px;">
+<h1 align="center">
+  <img src="https://media.tenor.com/FR5cu8mg5dUAAAAj/fnaf-fnaf-movie.gif" alt="FNaF Animation" height="100">
 </div>
 
 <h1 align="center">
   Five Nights at Freddy's - Apresentação Interativa
 </h1>
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-Slides-orange?logo=html5&style=for-the-badge" alt="HTML5" height="30">
