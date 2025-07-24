@@ -1,4 +1,5 @@
-https://github.com/user-attachments/assets/f67f08cb-b70e-4a2a-aecd-9dbd5e338a79
+https://github.com/user-attachments/assets/d10346a0-8e73-46f7-8f5e-d05b20c1c14e
+
 
 <div align="center">
   <img src="https://media.tenor.com/FR5cu8mg5dUAAAAj/fnaf-fnaf-movie.gif" alt="FNaF Animation" height="300">
